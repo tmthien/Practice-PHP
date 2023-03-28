@@ -7,6 +7,16 @@
     <title>Reverse Word</title>
 </head>
 <body>
+    <h3>
+        Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
+    </h3>
+    <p>
+        Examples <br>
+        "This is an example!" ==> "sihT si na !elpmaxe" <br>
+        "double  spaces"      ==> "elbuod  secaps" <br>
+        ==============================================
+    </p>
+    <h3> Result:</h3>
     <?php 
     
         $str = "This is an example!";
